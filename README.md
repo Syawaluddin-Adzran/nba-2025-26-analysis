@@ -222,8 +222,8 @@ pip install -r requirements.txt
 ```bash
 python scripts/01_load_raw_to_sql.py
 python scripts/02_clean_and_aggregate.py
-python scripts/03_analysis.py
-python scripts/04_visualizations.py
+python scripts/02_statistics.py
+python scripts/03_visualizations.py
 ```
 
 ### Launch Dashboard
